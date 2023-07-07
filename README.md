@@ -16,8 +16,8 @@ $$/      $$/  $$$$$$$/ $$/  $$$$$$$/  $$$$$$/  $$/  $$/  $$/  $$$$$$$/ $$/
  
 <img src="intersection.gif"/>
 
-![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martymoose98&show_icons=true&count_private=true&line_height=20&theme=tokyonight) 
-![Martin's Lang Distrobution](https://github-readme-stats.vercel.app/api/top-langs/?username=Martymoose98&layout=compact&line_height=32&theme=tokyonight)
+![Martin's GitHub Stats](https://github-readme-stats-pagefault.vercel.app/api?username=Martymoose98&custom_title=GitHub%20Statistics&show_icons=true&count_private=true&line_height=20&theme=tokyonight) 
+![Martin's Lang Distrobution](https://github-readme-stats-pagefault.vercel.app/api/top-langs/?username=Martymoose98&layout=compact&line_height=32&theme=tokyonight)
 </div>
 
 ![profviews](https://komarev.com/ghpvc/?username=Martymoose98&color=blue)
